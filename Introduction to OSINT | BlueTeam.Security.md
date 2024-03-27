@@ -15,19 +15,21 @@ ex: filetype:pdf
 
 ### Specifying File Types
 #### Search_Phrase SPACE filetype:*
-![image](https://hackmd.io/_uploads/BkUEf1fy0.jpg)
+
 ![image](https://github.com/YS-McGee/OSINT/assets/61614098/0882a671-b331-4a1e-9b1b-9359cf7bf6ed)
 
 
 ### Subdomain Enummeration
-#### Look for sites including ferrari[.]com, but excludes www.ferrari[.]com 
+#### Look for sites including ferrari[.]com, but excludes www.ferrari[.]com
 
-![image](https://hackmd.io/_uploads/S1r77kMJC.png)
+![image](https://github.com/YS-McGee/OSINT/assets/61614098/cc1d65b8-ff5d-409f-9161-b62654bd2a61)
+
 
 ### Keyword Searching
 #### *inurl:[VALUE]*
 
-![image](https://hackmd.io/_uploads/r1-EUyMkA.jpg)
+![image](https://github.com/YS-McGee/OSINT/assets/61614098/84abfd74-6f82-4bcd-bc71-07a93fc98419)
+
 
 ### More information
 https://securitytrails.com/blog/google-hacking-techniques
