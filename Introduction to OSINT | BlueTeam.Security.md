@@ -20,7 +20,7 @@ ex: filetype:pdf
 
 
 ### Subdomain Enummeration
-#### Look for sites including ferrari[.]com, but excludes www.ferrari[.]com
+#### Look for sites including ferrari[.]com, but excludes www[.]ferrari[.]com
 
 ![image](https://github.com/YS-McGee/OSINT/assets/61614098/cc1d65b8-ff5d-409f-9161-b62654bd2a61)
 
