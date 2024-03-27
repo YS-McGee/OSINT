@@ -16,6 +16,8 @@ ex: filetype:pdf
 ### Specifying File Types
 #### Search_Phrase SPACE filetype:*
 ![image](https://hackmd.io/_uploads/BkUEf1fy0.jpg)
+![image](https://github.com/YS-McGee/OSINT/assets/61614098/0882a671-b331-4a1e-9b1b-9359cf7bf6ed)
+
 
 ### Subdomain Enummeration
 #### Look for sites including ferrari[.]com, but excludes www.ferrari[.]com 
